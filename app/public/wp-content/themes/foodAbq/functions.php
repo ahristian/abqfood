@@ -6,3 +6,9 @@ function foodAbq () {
     wp_enqueue_style('foodAbq', get_stylesheet_uri());
 }
 add_action('wp_enqueue_scripts', 'foodAbq');
+
+function foodAbq_features(){
+    add_theme_support('title-tag');
+}
+
+add_action('after_setup_theme', 'foodAbq_features');
