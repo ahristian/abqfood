@@ -1,0 +1,6 @@
+
+.idea
+.Ds_Store
+/src/node_modules
+/src/.env
+/src/example.env
