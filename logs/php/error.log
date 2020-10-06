@@ -4,3 +4,5 @@
 [06-Oct-2020 02:30:30 UTC] PHP Notice:  Undefined variable: Andrei in C:\Users\User\Local Sites\foodabq\app\public\experiment.php on line 7
 [06-Oct-2020 02:30:30 UTC] PHP Stack trace:
 [06-Oct-2020 02:30:30 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\experiment.php:0
+[06-Oct-2020 03:40:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\index.php on line 4
+[06-Oct-2020 03:47:07 UTC] PHP Parse error:  syntax error, unexpected '/' in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\index.php on line 11
