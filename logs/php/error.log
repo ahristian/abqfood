@@ -43,3 +43,4 @@ Stack trace:
 [06-Oct-2020 16:49:25 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
 [06-Oct-2020 16:49:25 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:19
 [06-Oct-2020 16:49:25 UTC] PHP   4. include() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\template-loader.php:106
+[07-Oct-2020 03:05:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\page.php on line 66
