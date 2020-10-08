@@ -21,15 +21,16 @@ while (have_posts()) {
                     <i class="fa fa-home" aria-hidden="true">
                     </i> Back to Blog
                 </a> <span class="metabox__main">
-                    Posted by <?php the_author_posts_link();?>
-                    on <?php the_time('F d Y')?>
-                    at <?php the_time('g:i a')?>
-                    in <?php echo get_the_category_list(', ')?>
+                    Posted by <?php the_author_posts_link(); ?>
+                    on <?php the_time('F d Y') ?>
+                    at <?php the_time('g:i a') ?>
+                    in <?php echo get_the_category_list(', ') ?>
                 </span></p>
         </div>
-    </div>
-    <div class="generic-content">
-        <?php the_content(); ?>
+
+        <div class="generic-content">
+            <?php the_content(); ?>
+        </div>
     </div>
     <?php
     get_footer();
