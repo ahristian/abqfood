@@ -6,3 +6,4 @@
 /src/example.env
 */node_modules
 **/node_modules
+*/error.log
