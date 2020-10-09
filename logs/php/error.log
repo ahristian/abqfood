@@ -46,3 +46,42 @@ Stack trace:
 [07-Oct-2020 03:05:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\page.php on line 66
 [07-Oct-2020 17:51:45 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\front-page.php on line 95
 [07-Oct-2020 17:53:43 UTC] PHP Parse error:  syntax error, unexpected 'btn' (T_STRING) in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\front-page.php on line 98
+[09-Oct-2020 19:49:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'Octoberfest' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[09-Oct-2020 19:49:55 UTC] PHP Stack trace:
+[09-Oct-2020 19:49:55 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\wp-cron.php:0
+[09-Oct-2020 19:49:55 UTC] PHP   2. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-cron.php:44
+[09-Oct-2020 19:49:55 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[09-Oct-2020 19:49:55 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[09-Oct-2020 19:49:55 UTC] PHP   5. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:546
+[09-Oct-2020 19:49:55 UTC] PHP   6. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[09-Oct-2020 19:49:55 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[09-Oct-2020 19:49:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'Octoberfest' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[09-Oct-2020 19:49:55 UTC] PHP Stack trace:
+[09-Oct-2020 19:49:55 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\wp-admin\about.php:0
+[09-Oct-2020 19:49:55 UTC] PHP   2. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-admin\about.php:10
+[09-Oct-2020 19:49:55 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-admin\admin.php:34
+[09-Oct-2020 19:49:55 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[09-Oct-2020 19:49:55 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[09-Oct-2020 19:49:55 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:546
+[09-Oct-2020 19:49:55 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[09-Oct-2020 19:49:55 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[09-Oct-2020 19:50:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'Octoberfest' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[09-Oct-2020 19:50:05 UTC] PHP Stack trace:
+[09-Oct-2020 19:50:05 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\wp-admin\about.php:0
+[09-Oct-2020 19:50:05 UTC] PHP   2. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-admin\about.php:10
+[09-Oct-2020 19:50:05 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-admin\admin.php:34
+[09-Oct-2020 19:50:05 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[09-Oct-2020 19:50:05 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[09-Oct-2020 19:50:05 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:546
+[09-Oct-2020 19:50:05 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[09-Oct-2020 19:50:05 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[09-Oct-2020 19:51:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'Octoberfest' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[09-Oct-2020 19:51:06 UTC] PHP Stack trace:
+[09-Oct-2020 19:51:06 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\wp-admin\admin-ajax.php:0
+[09-Oct-2020 19:51:06 UTC] PHP   2. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-admin\admin-ajax.php:22
+[09-Oct-2020 19:51:06 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[09-Oct-2020 19:51:06 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[09-Oct-2020 19:51:06 UTC] PHP   5. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:546
+[09-Oct-2020 19:51:06 UTC] PHP   6. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[09-Oct-2020 19:51:06 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[09-Oct-2020 19:55:10 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\functions.php on line 29
