@@ -85,3 +85,15 @@ Stack trace:
 [09-Oct-2020 19:51:06 UTC] PHP   6. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
 [09-Oct-2020 19:51:06 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
 [09-Oct-2020 19:55:10 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\functions.php on line 29
+[12-Oct-2020 15:17:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\front-page.php on line 43
+[12-Oct-2020 15:22:46 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\front-page.php on line 155
+[12-Oct-2020 15:22:49 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\front-page.php on line 155
+[12-Oct-2020 15:23:14 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\front-page.php on line 155
+[12-Oct-2020 15:26:52 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\front-page.php on line 155
+[12-Oct-2020 16:33:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_archive_name() in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\archive.php:18
+Stack trace:
+#0 C:\Users\User\Local Sites\foodabq\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\foodabq\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#3 {main}
+  thrown in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\archive.php on line 18
