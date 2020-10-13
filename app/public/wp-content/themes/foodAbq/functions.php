@@ -7,8 +7,8 @@ function foodAbq () {
 
    } else {
        wp_enqueue_script('our-vendors-js', get_theme_file_uri('/bundled-assets/vendors~scripts.8c97d901916ad616a264.js'), NULL, '1.0', true);
-       wp_enqueue_script('javaScript', get_theme_file_uri('/bundled-assets/scripts.944507dd80df366d0788.js'), NULL, '1.0', true);
-       wp_enqueue_style('our-main-style', get_theme_file_uri('/bundled-assets/styles.944507dd80df366d0788.css'));
+       wp_enqueue_script('javaScript', get_theme_file_uri('/bundled-assets/scripts.58ffa0ff47b8588cff2d.js'), NULL, '1.0', true);
+       wp_enqueue_style('our-main-style', get_theme_file_uri('/bundled-assets/styles.58ffa0ff47b8588cff2d.css'));
    }
 
 }
