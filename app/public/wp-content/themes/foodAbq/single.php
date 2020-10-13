@@ -19,7 +19,7 @@ while (have_posts()) {
             <p><a class="metabox__blog-home-link"
                   href="<?php echo site_url('/blog') ?>">
                     <i class="fa fa-home" aria-hidden="true">
-                    </i> Back to Blog
+                    </i> Blog
                 </a> <span class="metabox__main">
                     Posted by <?php the_author_posts_link(); ?>
                     on <?php the_time('F d Y') ?>
