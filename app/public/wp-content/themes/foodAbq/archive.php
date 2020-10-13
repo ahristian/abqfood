@@ -15,7 +15,7 @@
                 ?>
             </div>
             <div class="page-banner__intro">
-                <p><?php the_archive_description()?></p>
+                <p><?php the_archive_title();?></p>
             </div>
         </div>
     </div>
@@ -25,7 +25,7 @@
             the_post(); ?>
             <div class="post-item">
                 <h2 class="headline headline--medium headline--post-title">
-                    <a href="<?php echo the_permalink()?>">
+                    <a href="<?php the_permalink()?>">
                         <?php the_title() ?>
                     </a>
                 </h2>
@@ -37,7 +37,9 @@
                     </p>
                 </div>
                 <div class="generic-content">
-                    <?php the_excerpt();?>
+                <p>
+                    <?php echo wp_trim_words(get_the_content(), 18)?>
+                </p>
                     <p><a class="btn btn--blue" href="<?php the_permalink();?>">
                             Continue reading &raquo;
                         </a></p>
