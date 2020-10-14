@@ -14,4 +14,5 @@ function foodAbq_post_types () {
         'menu_icon' => 'dashicons-buddicons-groups'
     ));
 }
+
 add_action('init', 'foodAbq_post_types');
