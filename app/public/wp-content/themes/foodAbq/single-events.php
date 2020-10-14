@@ -18,6 +18,7 @@ while (have_posts()) {
         <div class="metabox metabox--position-up metabox--with-home-link">
             <p><a class="metabox__blog-home-link"
                   href="<?php echo get_post_type_archive_link('events') ?>">
+
                     <i class="fa fa-home" aria-hidden="true">
                     </i>Events
                 </a> <span class="metabox__main">
