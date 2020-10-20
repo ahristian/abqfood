@@ -4,7 +4,7 @@ function foodAbq_post_types () {
     register_post_type('events', array(
         'has_archive' => true,
         'show_in_rest' => true,
-        'supports' => array('title', 'editor', 'excerpt'),
+        'supports' => array('title', 'editor', 'excerpt', 'custom-fields'),
         'public' => true,
         'labels' => array(
             'name'=> 'Events',
