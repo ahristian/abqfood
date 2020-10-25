@@ -19,10 +19,10 @@ get_header();
             url(<?php echo get_theme_file_uri('images/library-hero.jpg') ?>);"></div>
     <div class="page-banner__content container t-center c-white">
         <h1 class="headline headline--large">Welcome! </h1>
-        <h2 class="headline headline--medium">To Albuquerque&rsquo;s best Places to eat!</h2>
-        <h3 class="headline headline--small">Why dont you check out the <strong>local cuisine</strong> you&rsquo;re
+        <h2 class="headline headline--medium">To New Mexico&rsquo;s best Places to visit!</h2>
+        <h3 class="headline headline--small">Why dont you check out the <strong>local nature</strong> you&rsquo;re
             interested in?</h3>
-        <a href="#" class="btn btn--large btn--blue">Find Your Meal</a>
+        <a href="#" class="btn btn--large btn--blue">Find Your Next Destination</a>
     </div>
 </div>
 
@@ -32,9 +32,21 @@ get_header();
         <div class="full-width-split__inner">
             <h2 class="headline headline--small-plus t-center">Upcoming Events</h2>
             <?php
+            $today = date('Ymd');
             $homePageEvents = new WP_Query(array(
-                    'posts_per_page' => 5,
-                    'post_type' => 'events'
+                    'posts_per_page' => 2,
+                    'post_type' => 'events',
+                    'orderby' => 'meta_value_num',
+                    'meta_key' => 'event_date',
+                    'order' => 'ASC',
+                    'meta_query' => array(
+                        array(
+                            'key' => 'event_date',
+                            'compare' => '>=',
+                            'value' => $today,
+                            'type' => 'numeric'
+                        )
+                    )
                 )
             );
             while ($homePageEvents->have_posts()) {
