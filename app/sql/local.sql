@@ -134,7 +134,7 @@ CREATE TABLE `wp_options` (
   PRIMARY KEY (`option_id`),
   UNIQUE KEY `option_name` (`option_name`),
   KEY `autoload` (`autoload`)
-) ENGINE=InnoDB AUTO_INCREMENT=327 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=372 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -175,7 +175,7 @@ INSERT INTO `wp_options` VALUES (29,'rewrite_rules','a:120:{s:11:\"^wp-json/?$\"
 INSERT INTO `wp_options` VALUES (30,'hack_file','0','yes');
 INSERT INTO `wp_options` VALUES (31,'blog_charset','UTF-8','yes');
 INSERT INTO `wp_options` VALUES (32,'moderation_keys','','no');
-INSERT INTO `wp_options` VALUES (33,'active_plugins','a:0:{}','yes');
+INSERT INTO `wp_options` VALUES (33,'active_plugins','a:1:{i:0;s:30:\"advanced-custom-fields/acf.php\";}','yes');
 INSERT INTO `wp_options` VALUES (34,'category_base','','yes');
 INSERT INTO `wp_options` VALUES (35,'ping_sites','http://rpc.pingomatic.com/','yes');
 INSERT INTO `wp_options` VALUES (36,'comment_max_links','2','yes');
@@ -246,7 +246,7 @@ INSERT INTO `wp_options` VALUES (100,'widget_recent-comments','a:2:{i:2;a:2:{s:5
 INSERT INTO `wp_options` VALUES (101,'widget_archives','a:2:{i:2;a:3:{s:5:\"title\";s:0:\"\";s:5:\"count\";i:0;s:8:\"dropdown\";i:0;}s:12:\"_multiwidget\";i:1;}','yes');
 INSERT INTO `wp_options` VALUES (102,'widget_meta','a:2:{i:2;a:1:{s:5:\"title\";s:0:\"\";}s:12:\"_multiwidget\";i:1;}','yes');
 INSERT INTO `wp_options` VALUES (103,'sidebars_widgets','a:2:{s:19:\"wp_inactive_widgets\";a:6:{i:0;s:8:\"search-2\";i:1;s:14:\"recent-posts-2\";i:2;s:17:\"recent-comments-2\";i:3;s:10:\"archives-2\";i:4;s:12:\"categories-2\";i:5;s:6:\"meta-2\";}s:13:\"array_version\";i:3;}','yes');
-INSERT INTO `wp_options` VALUES (104,'cron','a:6:{i:1602877700;a:1:{s:34:\"wp_privacy_delete_old_export_files\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"hourly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:3600;}}}i:1602900740;a:2:{s:19:\"wp_scheduled_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}s:25:\"delete_expired_transients\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1602900741;a:1:{s:30:\"wp_scheduled_auto_draft_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1602910100;a:4:{s:32:\"recovery_mode_clean_expired_keys\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1603255700;a:1:{s:30:\"wp_site_health_scheduled_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"weekly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:604800;}}}s:7:\"version\";i:2;}','yes');
+INSERT INTO `wp_options` VALUES (104,'cron','a:6:{i:1603644500;a:4:{s:34:\"wp_privacy_delete_old_export_files\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"hourly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:3600;}}s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1603678340;a:2:{s:19:\"wp_scheduled_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}s:25:\"delete_expired_transients\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1603678341;a:1:{s:30:\"wp_scheduled_auto_draft_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1603687700;a:1:{s:32:\"recovery_mode_clean_expired_keys\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1603860500;a:1:{s:30:\"wp_site_health_scheduled_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"weekly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:604800;}}}s:7:\"version\";i:2;}','yes');
 INSERT INTO `wp_options` VALUES (105,'widget_pages','a:1:{s:12:\"_multiwidget\";i:1;}','yes');
 INSERT INTO `wp_options` VALUES (106,'widget_calendar','a:1:{s:12:\"_multiwidget\";i:1;}','yes');
 INSERT INTO `wp_options` VALUES (107,'widget_media_audio','a:1:{s:12:\"_multiwidget\";i:1;}','yes');
@@ -259,11 +259,10 @@ INSERT INTO `wp_options` VALUES (113,'widget_tag_cloud','a:1:{s:12:\"_multiwidge
 INSERT INTO `wp_options` VALUES (114,'widget_nav_menu','a:1:{s:12:\"_multiwidget\";i:1;}','yes');
 INSERT INTO `wp_options` VALUES (115,'widget_custom_html','a:1:{s:12:\"_multiwidget\";i:1;}','yes');
 INSERT INTO `wp_options` VALUES (117,'recovery_keys','a:0:{}','yes');
-INSERT INTO `wp_options` VALUES (118,'_site_transient_update_core','O:8:\"stdClass\":4:{s:7:\"updates\";a:1:{i:0;O:8:\"stdClass\":10:{s:8:\"response\";s:6:\"latest\";s:8:\"download\";s:59:\"https://downloads.wordpress.org/release/wordpress-5.5.1.zip\";s:6:\"locale\";s:5:\"en_US\";s:8:\"packages\";O:8:\"stdClass\":5:{s:4:\"full\";s:59:\"https://downloads.wordpress.org/release/wordpress-5.5.1.zip\";s:10:\"no_content\";s:70:\"https://downloads.wordpress.org/release/wordpress-5.5.1-no-content.zip\";s:11:\"new_bundled\";s:71:\"https://downloads.wordpress.org/release/wordpress-5.5.1-new-bundled.zip\";s:7:\"partial\";s:0:\"\";s:8:\"rollback\";s:0:\"\";}s:7:\"current\";s:5:\"5.5.1\";s:7:\"version\";s:5:\"5.5.1\";s:11:\"php_version\";s:6:\"5.6.20\";s:13:\"mysql_version\";s:3:\"5.0\";s:11:\"new_bundled\";s:3:\"5.3\";s:15:\"partial_version\";s:0:\"\";}}s:12:\"last_checked\";i:1602875104;s:15:\"version_checked\";s:5:\"5.5.1\";s:12:\"translations\";a:0:{}}','no');
-INSERT INTO `wp_options` VALUES (120,'_site_transient_update_plugins','O:8:\"stdClass\":4:{s:12:\"last_checked\";i:1602875104;s:8:\"response\";a:0:{}s:12:\"translations\";a:0:{}s:9:\"no_update\";a:0:{}}','no');
-INSERT INTO `wp_options` VALUES (123,'_site_transient_update_themes','O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1602875104;s:7:\"checked\";a:1:{s:7:\"foodAbq\";s:3:\"1.0\";}s:8:\"response\";a:0:{}s:9:\"no_update\";a:0:{}s:12:\"translations\";a:0:{}}','no');
+INSERT INTO `wp_options` VALUES (118,'_site_transient_update_core','O:8:\"stdClass\":4:{s:7:\"updates\";a:1:{i:0;O:8:\"stdClass\":10:{s:8:\"response\";s:6:\"latest\";s:8:\"download\";s:59:\"https://downloads.wordpress.org/release/wordpress-5.5.1.zip\";s:6:\"locale\";s:5:\"en_US\";s:8:\"packages\";O:8:\"stdClass\":5:{s:4:\"full\";s:59:\"https://downloads.wordpress.org/release/wordpress-5.5.1.zip\";s:10:\"no_content\";s:70:\"https://downloads.wordpress.org/release/wordpress-5.5.1-no-content.zip\";s:11:\"new_bundled\";s:71:\"https://downloads.wordpress.org/release/wordpress-5.5.1-new-bundled.zip\";s:7:\"partial\";s:0:\"\";s:8:\"rollback\";s:0:\"\";}s:7:\"current\";s:5:\"5.5.1\";s:7:\"version\";s:5:\"5.5.1\";s:11:\"php_version\";s:6:\"5.6.20\";s:13:\"mysql_version\";s:3:\"5.0\";s:11:\"new_bundled\";s:3:\"5.3\";s:15:\"partial_version\";s:0:\"\";}}s:12:\"last_checked\";i:1603643038;s:15:\"version_checked\";s:5:\"5.5.1\";s:12:\"translations\";a:0:{}}','no');
+INSERT INTO `wp_options` VALUES (123,'_site_transient_update_themes','O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1603643039;s:7:\"checked\";a:1:{s:7:\"foodAbq\";s:3:\"1.0\";}s:8:\"response\";a:0:{}s:9:\"no_update\";a:0:{}s:12:\"translations\";a:0:{}}','no');
 INSERT INTO `wp_options` VALUES (124,'theme_mods_twentytwenty','a:2:{s:18:\"custom_css_post_id\";i:-1;s:16:\"sidebars_widgets\";a:2:{s:4:\"time\";i:1601955197;s:4:\"data\";a:3:{s:19:\"wp_inactive_widgets\";a:0:{}s:9:\"sidebar-1\";a:3:{i:0;s:8:\"search-2\";i:1;s:14:\"recent-posts-2\";i:2;s:17:\"recent-comments-2\";}s:9:\"sidebar-2\";a:3:{i:0;s:10:\"archives-2\";i:1;s:12:\"categories-2\";i:2;s:6:\"meta-2\";}}}}','yes');
-INSERT INTO `wp_options` VALUES (141,'_transient_health-check-site-status-result','{\"good\":12,\"recommended\":7,\"critical\":1}','yes');
+INSERT INTO `wp_options` VALUES (141,'_transient_health-check-site-status-result','{\"good\":11,\"recommended\":9,\"critical\":0}','yes');
 INSERT INTO `wp_options` VALUES (149,'finished_updating_comment_type','1','yes');
 INSERT INTO `wp_options` VALUES (160,'can_compress_scripts','1','no');
 INSERT INTO `wp_options` VALUES (164,'current_theme','Food Abq','yes');
@@ -274,10 +273,15 @@ INSERT INTO `wp_options` VALUES (170,'new_admin_email','hristian.andrei@gmail.co
 INSERT INTO `wp_options` VALUES (206,'nav_menu_options','a:2:{i:0;b:0;s:8:\"auto_add\";a:0:{}}','yes');
 INSERT INTO `wp_options` VALUES (238,'category_children','a:0:{}','yes');
 INSERT INTO `wp_options` VALUES (253,'recovery_mode_email_last_sent','1602273310','yes');
-INSERT INTO `wp_options` VALUES (316,'_site_transient_timeout_php_check_472f71d2a071d463a95f84346288dc89','1603467526','no');
-INSERT INTO `wp_options` VALUES (317,'_site_transient_php_check_472f71d2a071d463a95f84346288dc89','a:5:{s:19:\"recommended_version\";s:3:\"7.4\";s:15:\"minimum_version\";s:6:\"5.6.20\";s:12:\"is_supported\";b:1;s:9:\"is_secure\";b:1;s:13:\"is_acceptable\";b:1;}','no');
-INSERT INTO `wp_options` VALUES (325,'_site_transient_timeout_theme_roots','1602876904','no');
-INSERT INTO `wp_options` VALUES (326,'_site_transient_theme_roots','a:1:{s:7:\"foodAbq\";s:7:\"/themes\";}','no');
+INSERT INTO `wp_options` VALUES (334,'_site_transient_timeout_browser_44a5e524f134e3228c7b0b16c2224ffc','1603773128','no');
+INSERT INTO `wp_options` VALUES (335,'_site_transient_browser_44a5e524f134e3228c7b0b16c2224ffc','a:10:{s:4:\"name\";s:6:\"Chrome\";s:7:\"version\";s:12:\"86.0.4240.75\";s:8:\"platform\";s:7:\"Windows\";s:10:\"update_url\";s:29:\"https://www.google.com/chrome\";s:7:\"img_src\";s:43:\"http://s.w.org/images/browsers/chrome.png?1\";s:11:\"img_src_ssl\";s:44:\"https://s.w.org/images/browsers/chrome.png?1\";s:15:\"current_version\";s:2:\"18\";s:7:\"upgrade\";b:0;s:8:\"insecure\";b:0;s:6:\"mobile\";b:0;}','no');
+INSERT INTO `wp_options` VALUES (350,'recently_activated','a:0:{}','yes');
+INSERT INTO `wp_options` VALUES (356,'_site_transient_update_plugins','O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1603643039;s:7:\"checked\";a:1:{s:30:\"advanced-custom-fields/acf.php\";s:5:\"5.9.1\";}s:8:\"response\";a:0:{}s:12:\"translations\";a:0:{}s:9:\"no_update\";a:1:{s:30:\"advanced-custom-fields/acf.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:36:\"w.org/plugins/advanced-custom-fields\";s:4:\"slug\";s:22:\"advanced-custom-fields\";s:6:\"plugin\";s:30:\"advanced-custom-fields/acf.php\";s:11:\"new_version\";s:5:\"5.9.1\";s:3:\"url\";s:53:\"https://wordpress.org/plugins/advanced-custom-fields/\";s:7:\"package\";s:71:\"https://downloads.wordpress.org/plugin/advanced-custom-fields.5.9.1.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:75:\"https://ps.w.org/advanced-custom-fields/assets/icon-256x256.png?rev=1082746\";s:2:\"1x\";s:75:\"https://ps.w.org/advanced-custom-fields/assets/icon-128x128.png?rev=1082746\";}s:7:\"banners\";a:2:{s:2:\"2x\";s:78:\"https://ps.w.org/advanced-custom-fields/assets/banner-1544x500.jpg?rev=1729099\";s:2:\"1x\";s:77:\"https://ps.w.org/advanced-custom-fields/assets/banner-772x250.jpg?rev=1729102\";}s:11:\"banners_rtl\";a:0:{}}}}','no');
+INSERT INTO `wp_options` VALUES (357,'acf_version','5.9.1','yes');
+INSERT INTO `wp_options` VALUES (367,'_site_transient_timeout_theme_roots','1603644827','no');
+INSERT INTO `wp_options` VALUES (368,'_site_transient_theme_roots','a:1:{s:7:\"foodAbq\";s:7:\"/themes\";}','no');
+INSERT INTO `wp_options` VALUES (369,'_site_transient_timeout_php_check_472f71d2a071d463a95f84346288dc89','1604247827','no');
+INSERT INTO `wp_options` VALUES (370,'_site_transient_php_check_472f71d2a071d463a95f84346288dc89','a:5:{s:19:\"recommended_version\";s:3:\"7.4\";s:15:\"minimum_version\";s:6:\"5.6.20\";s:12:\"is_supported\";b:1;s:9:\"is_secure\";b:1;s:13:\"is_acceptable\";b:1;}','no');
 /*!40000 ALTER TABLE `wp_options` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -296,7 +300,7 @@ CREATE TABLE `wp_postmeta` (
   PRIMARY KEY (`meta_id`),
   KEY `post_id` (`post_id`),
   KEY `meta_key` (`meta_key`(191))
-) ENGINE=InnoDB AUTO_INCREMENT=229 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=236 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -474,9 +478,9 @@ INSERT INTO `wp_postmeta` VALUES (196,48,'_menu_item_url','');
 INSERT INTO `wp_postmeta` VALUES (198,49,'_edit_last','1');
 INSERT INTO `wp_postmeta` VALUES (199,49,'_edit_lock','1602519272:1');
 INSERT INTO `wp_postmeta` VALUES (200,52,'_edit_last','1');
-INSERT INTO `wp_postmeta` VALUES (201,52,'_edit_lock','1602863910:1');
+INSERT INTO `wp_postmeta` VALUES (201,52,'_edit_lock','1603172672:1');
 INSERT INTO `wp_postmeta` VALUES (202,53,'_edit_last','1');
-INSERT INTO `wp_postmeta` VALUES (203,53,'_edit_lock','1602518689:1');
+INSERT INTO `wp_postmeta` VALUES (203,53,'_edit_lock','1603172993:1');
 INSERT INTO `wp_postmeta` VALUES (204,53,'_wp_old_date','2020-10-12');
 INSERT INTO `wp_postmeta` VALUES (209,7,'_pingme','1');
 INSERT INTO `wp_postmeta` VALUES (210,7,'_encloseme','1');
@@ -496,6 +500,13 @@ INSERT INTO `wp_postmeta` VALUES (224,57,'_menu_item_target','');
 INSERT INTO `wp_postmeta` VALUES (225,57,'_menu_item_classes','a:1:{i:0;s:0:\"\";}');
 INSERT INTO `wp_postmeta` VALUES (226,57,'_menu_item_xfn','');
 INSERT INTO `wp_postmeta` VALUES (227,57,'_menu_item_url','');
+INSERT INTO `wp_postmeta` VALUES (229,52,'Event Day','October 10');
+INSERT INTO `wp_postmeta` VALUES (230,60,'_edit_last','1');
+INSERT INTO `wp_postmeta` VALUES (231,60,'_edit_lock','1603171974:1');
+INSERT INTO `wp_postmeta` VALUES (232,52,'event_date','20200813');
+INSERT INTO `wp_postmeta` VALUES (233,52,'_event_date','field_5f8e72af72642');
+INSERT INTO `wp_postmeta` VALUES (234,53,'event_date','20201031');
+INSERT INTO `wp_postmeta` VALUES (235,53,'_event_date','field_5f8e72af72642');
 /*!40000 ALTER TABLE `wp_postmeta` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -535,7 +546,7 @@ CREATE TABLE `wp_posts` (
   KEY `type_status_date` (`post_type`,`post_status`,`post_date`,`ID`),
   KEY `post_parent` (`post_parent`),
   KEY `post_author` (`post_author`)
-) ENGINE=InnoDB AUTO_INCREMENT=58 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=62 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -591,14 +602,16 @@ INSERT INTO `wp_posts` VALUES (46,1,'2020-10-07 17:23:20','0000-00-00 00:00:00',
 INSERT INTO `wp_posts` VALUES (47,1,'2020-10-07 17:24:13','2020-10-07 17:24:13',' ','','','publish','closed','closed','','47','','','2020-10-16 16:05:13','2020-10-16 16:05:13','',0,'http://foodabq.local/?p=47',2,'nav_menu_item','',0);
 INSERT INTO `wp_posts` VALUES (48,1,'2020-10-07 17:24:38','2020-10-07 17:24:38',' ','','','publish','closed','closed','','48','','','2020-10-16 16:04:39','2020-10-16 16:04:39','',0,'http://foodabq.local/?p=48',5,'nav_menu_item','',0);
 INSERT INTO `wp_posts` VALUES (49,1,'2020-10-09 19:57:06','2020-10-09 19:57:06','<b>Oktoberfest</b> starts in <b>September</b> because its final day has a fixed spot on the calendar. The last day of the festival is always on the first Sunday of October. ... In October 1810, the Bavarian Crown Prince Ludwig married Princess Therese of Saxony-Hildburghausen, and locals celebrated in Munich.','October Fest','','publish','closed','closed','','october-fest','','','2020-10-09 19:57:06','2020-10-09 19:57:06','',0,'http://foodabq.local/?post_type=event&#038;p=49',0,'event','',0);
-INSERT INTO `wp_posts` VALUES (50,1,'2020-10-09 20:03:03','0000-00-00 00:00:00','','Auto Draft','','auto-draft','closed','closed','','','','','2020-10-09 20:03:03','0000-00-00 00:00:00','',0,'http://foodabq.local/?post_type=event&p=50',0,'event','',0);
-INSERT INTO `wp_posts` VALUES (51,1,'2020-10-09 20:04:36','0000-00-00 00:00:00','','Auto Draft','','auto-draft','closed','closed','','','','','2020-10-09 20:04:36','0000-00-00 00:00:00','',0,'http://foodabq.local/?post_type=event&p=51',0,'event','',0);
-INSERT INTO `wp_posts` VALUES (52,1,'2020-10-12 15:37:50','2020-10-12 15:37:50','The&nbsp;<em>Oktoberfest</em>&nbsp;is an important part of Bavarian culture, having been held since the year 1810. Other cities across the world also hold&nbsp;<em>Oktoberfest</em>&nbsp;celebrations that are modeled after the original Munich event.','Oktoberfest ','The best day taste amazing beer!','publish','closed','closed','','october-fest','','','2020-10-16 15:58:27','2020-10-16 15:58:27','',0,'http://foodabq.local/?post_type=events&#038;p=52',0,'events','',0);
-INSERT INTO `wp_posts` VALUES (53,1,'2020-10-02 15:59:19','2020-10-02 15:59:19','National Pumpkin Day is a nonofficial holiday which falls on <b>October 26th</b> and is celebrated annually. The purpose of this holiday is to celebrate and give thanks for that squash cultivator that is such an integral part of American culture.','Pumpkin Day','','publish','closed','closed','','pumpkin-day','','','2020-10-12 16:07:09','2020-10-12 16:07:09','',0,'http://foodabq.local/?post_type=events&#038;p=53',0,'events','',0);
+INSERT INTO `wp_posts` VALUES (52,1,'2020-10-12 15:37:50','2020-10-12 15:37:50','The&nbsp;<em>Oktoberfest</em>&nbsp;is an important part of Bavarian culture, having been held since the year 1810. Other cities across the world also hold&nbsp;<em>Oktoberfest</em>&nbsp;celebrations that are modeled after the original Munich event.','Oktoberfest ','The best day taste amazing beer!','publish','closed','closed','','october-fest','','','2020-10-20 05:43:53','2020-10-20 05:43:53','',0,'http://foodabq.local/?post_type=events&#038;p=52',0,'events','',0);
+INSERT INTO `wp_posts` VALUES (53,1,'2020-10-02 15:59:19','2020-10-02 15:59:19','National Pumpkin Day is a nonofficial holiday which falls on&nbsp;<b>October 26th</b>&nbsp;and is celebrated annually. The purpose of this holiday is to celebrate and give thanks for that squash cultivator that is such an integral part of American culture.','Pumpkin Day','','publish','closed','closed','','pumpkin-day','','','2020-10-20 05:47:15','2020-10-20 05:47:15','',0,'http://foodabq.local/?post_type=events&#038;p=53',0,'events','',0);
 INSERT INTO `wp_posts` VALUES (54,1,'2020-10-16 15:44:35','2020-10-16 15:44:35','<!-- wp:paragraph -->\n<p>Hands down the best place we ate at in Albuquerque! The charcuterie tray was so unique and so delicious! My husbands steak bernaise melted in your mouth incredible. We ordered 4 amazing wine flights and all of the desserts and I honestly cannot say enough about how phenomenal they were. The service was also the best that we had in Albuquerque. Our waitress was so kind and made the best suggestions!</p>\n<!-- /wp:paragraph -->','The best place I have ever eaten!','Las Conchas has won','inherit','closed','closed','','44-revision-v1','','','2020-10-16 15:44:35','2020-10-16 15:44:35','',44,'http://foodabq.local/2020/10/16/44-revision-v1/',0,'revision','',0);
 INSERT INTO `wp_posts` VALUES (55,1,'2020-10-16 15:51:47','2020-10-16 15:51:47','<!-- wp:paragraph -->\n<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here\'.</p>\n<!-- /wp:paragraph -->','Gestapo`s experience','','inherit','closed','closed','','7-revision-v1','','','2020-10-16 15:51:47','2020-10-16 15:51:47','',7,'http://foodabq.local/2020/10/16/7-revision-v1/',0,'revision','',0);
 INSERT INTO `wp_posts` VALUES (56,1,'2020-10-16 16:04:39','2020-10-16 16:04:39',' ','','','publish','closed','closed','','56','','','2020-10-16 16:04:39','2020-10-16 16:04:39','',0,'http://foodabq.local/?p=56',4,'nav_menu_item','',0);
 INSERT INTO `wp_posts` VALUES (57,1,'2020-10-16 16:05:09','2020-10-16 16:05:09',' ','','','publish','closed','closed','','57','','','2020-10-16 16:05:13','2020-10-16 16:05:13','',0,'http://foodabq.local/?p=57',1,'nav_menu_item','',0);
+INSERT INTO `wp_posts` VALUES (58,1,'2020-10-20 04:32:08','0000-00-00 00:00:00','','Auto Draft','','auto-draft','open','open','','','','','2020-10-20 04:32:08','0000-00-00 00:00:00','',0,'http://foodabq.local/?p=58',0,'post','',0);
+INSERT INTO `wp_posts` VALUES (59,1,'2020-10-20 05:10:16','0000-00-00 00:00:00','','Auto Draft','','auto-draft','closed','closed','','','','','2020-10-20 05:10:16','0000-00-00 00:00:00','',0,'http://foodabq.local/?post_type=acf-field-group&p=59',0,'acf-field-group','',0);
+INSERT INTO `wp_posts` VALUES (60,1,'2020-10-20 05:24:16','2020-10-20 05:24:16','a:7:{s:8:\"location\";a:1:{i:0;a:1:{i:0;a:3:{s:5:\"param\";s:9:\"post_type\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:6:\"events\";}}}s:8:\"position\";s:6:\"normal\";s:5:\"style\";s:7:\"default\";s:15:\"label_placement\";s:3:\"top\";s:21:\"instruction_placement\";s:5:\"label\";s:14:\"hide_on_screen\";s:0:\"\";s:11:\"description\";s:0:\"\";}','Event Date','event-date','publish','closed','closed','','group_5f8e720273b1d','','','2020-10-20 05:24:16','2020-10-20 05:24:16','',0,'http://foodabq.local/?post_type=acf-field-group&#038;p=60',0,'acf-field-group','',0);
+INSERT INTO `wp_posts` VALUES (61,1,'2020-10-20 05:24:16','2020-10-20 05:24:16','a:8:{s:4:\"type\";s:11:\"date_picker\";s:12:\"instructions\";s:0:\"\";s:8:\"required\";i:1;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\"\";s:5:\"class\";s:0:\"\";s:2:\"id\";s:0:\"\";}s:14:\"display_format\";s:5:\"m/d/Y\";s:13:\"return_format\";s:3:\"Ymd\";s:9:\"first_day\";i:1;}','Event Date','event_date','publish','closed','closed','','field_5f8e72af72642','','','2020-10-20 05:24:16','2020-10-20 05:24:16','',60,'http://foodabq.local/?post_type=acf-field&p=61',0,'acf-field','',0);
 /*!40000 ALTER TABLE `wp_posts` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -753,7 +766,7 @@ CREATE TABLE `wp_usermeta` (
   PRIMARY KEY (`umeta_id`),
   KEY `user_id` (`user_id`),
   KEY `meta_key` (`meta_key`(191))
-) ENGINE=InnoDB AUTO_INCREMENT=21 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=22 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -777,11 +790,12 @@ INSERT INTO `wp_usermeta` VALUES (12,1,'wp_capabilities','a:1:{s:13:\"administra
 INSERT INTO `wp_usermeta` VALUES (13,1,'wp_user_level','10');
 INSERT INTO `wp_usermeta` VALUES (14,1,'dismissed_wp_pointers','');
 INSERT INTO `wp_usermeta` VALUES (15,1,'show_welcome_panel','1');
-INSERT INTO `wp_usermeta` VALUES (16,1,'session_tokens','a:1:{s:64:\"9b952459e3ad307b9f07e1875212118054d00d7527ea97f67faa488369fe06f5\";a:4:{s:10:\"expiration\";i:1603159940;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:115:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36\";s:5:\"login\";i:1601950340;}}');
-INSERT INTO `wp_usermeta` VALUES (17,1,'wp_dashboard_quick_press_last_post_id','4');
+INSERT INTO `wp_usermeta` VALUES (16,1,'session_tokens','a:1:{s:64:\"9d156a07f174732a17bcfcc2e492ba3200566e6c6ee949be1787417cb36e98f5\";a:4:{s:10:\"expiration\";i:1604853840;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:114:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36\";s:5:\"login\";i:1603644240;}}');
+INSERT INTO `wp_usermeta` VALUES (17,1,'wp_dashboard_quick_press_last_post_id','58');
 INSERT INTO `wp_usermeta` VALUES (18,1,'managenav-menuscolumnshidden','a:5:{i:0;s:11:\"link-target\";i:1;s:11:\"css-classes\";i:2;s:3:\"xfn\";i:3;s:11:\"description\";i:4;s:15:\"title-attribute\";}');
 INSERT INTO `wp_usermeta` VALUES (19,1,'metaboxhidden_nav-menus','a:1:{i:0;s:12:\"add-post_tag\";}');
 INSERT INTO `wp_usermeta` VALUES (20,1,'nav_menu_recently_edited','2');
+INSERT INTO `wp_usermeta` VALUES (21,1,'enable_custom_fields','1');
 /*!40000 ALTER TABLE `wp_usermeta` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -829,4 +843,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-10-16 13:47:17
+-- Dump completed on 2020-10-25 10:48:02
