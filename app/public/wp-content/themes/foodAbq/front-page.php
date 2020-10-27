@@ -22,7 +22,7 @@ get_header();
         <h2 class="headline headline--medium">To New Mexico&rsquo;s best Places to visit!</h2>
         <h3 class="headline headline--small">Why dont you check out the <strong>local nature</strong> you&rsquo;re
             interested in?</h3>
-        <a href="#" class="btn btn--large btn--blue">Find Your Next Destination</a>
+        <a href="<?php echo get_post_type_archive_link('destination');?>" class="btn btn--large btn--blue">Find Your Next Destination</a>
     </div>
 </div>
 
