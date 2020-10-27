@@ -24,6 +24,11 @@ function foodAbq_features(){
 add_action('after_setup_theme', 'foodAbq_features');
 
 function travelNewMexico_adjust_queries($query) {
+    if (!is_admin() AND is_post_type_archive('destination') AND $query ) {
+        $query -> set('orderby', 'title');
+        $query -> set('order', 'ASC');
+        $query -> set('posts_per_page', -1);
+    }
     if (!is_admin() AND
         is_post_type_archive('events') AND
         $query -> is_main_query()) {
