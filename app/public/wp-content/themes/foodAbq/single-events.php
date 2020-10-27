@@ -22,13 +22,33 @@ while (have_posts()) {
                     <i class="fa fa-home" aria-hidden="true">
                     </i>Events
                 </a> <span class="metabox__main">
-                    <?php the_title()?>
+                    <?php the_title() ?>
                 </span></p>
         </div>
 
         <div class="generic-content">
             <?php the_content(); ?>
         </div>
+
+        <?php
+        $relatedDestination = get_field('related_destination');
+       if ($relatedDestination) {
+           echo '
+        <hr class="section-break">
+        <h2 class="headline headline--medium">Realated Destination</h2>
+        <ul class="link-list min-list">';
+           foreach ($relatedDestination as $destination) {
+               ?>
+               <li><a href="<?php echo get_the_permalink($destination); ?>">
+                       <?php
+                       echo get_the_title($destination); ?>
+                   </a></li>
+               <?php
+           }
+           echo '</ul>';
+       }
+
+        ?>
     </div>
     <?php
     get_footer();
