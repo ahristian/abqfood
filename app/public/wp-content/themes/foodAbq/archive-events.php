@@ -36,7 +36,7 @@
                             <?php echo the_title(); ?>
                         </a>
                     </h5>
-                    <p><?php echo wp_trim_words(get_the_content(), 18)?>
+                    <p><?php echo wp_trim_words(get_the_content(), 25)?>
                         <a href=" <?php the_permalink(); ?>" class="nu gray">
                             Learn more</a>
                     </p>
