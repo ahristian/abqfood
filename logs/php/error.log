@@ -98,3 +98,1446 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\archive.php on line 18
 [25-Oct-2020 18:34:16 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\page-past-events.php on line 64
+[26-Oct-2020 02:14:26 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:26 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:26 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:27 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:27 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:27 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:27 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:27 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:27 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:27 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:27 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:27 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:27 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:27 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:27 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:27 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:27 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:27 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:27 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:27 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:27 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:27 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:27 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:27 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:27 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:27 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:27 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:27 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:27 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:27 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:27 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:27 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:27 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:27 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:27 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:27 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:27 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:27 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:27 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:27 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:27 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:27 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:27 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:27 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:27 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:27 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:27 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:27 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:27 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:27 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:27 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:27 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:27 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:27 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:27 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:28 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:28 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:28 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:28 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:28 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:28 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:28 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:28 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:28 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:28 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:28 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:28 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:28 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:28 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:28 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:28 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:28 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:28 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:28 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:28 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:28 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:28 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:28 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:28 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:28 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:28 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:28 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:28 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:28 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:28 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:28 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:28 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:28 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:28 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:28 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:28 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:28 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:28 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:28 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:28 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:28 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:28 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:28 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:28 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:28 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:28 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:28 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:28 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:29 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:29 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:29 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:29 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:29 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:29 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:29 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:29 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:29 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:29 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:29 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:29 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:29 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:29 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:29 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:29 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:29 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:29 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:29 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:29 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:29 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:29 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:29 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:29 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:29 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:29 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:29 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:29 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:29 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:29 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:29 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:29 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:29 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:29 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:29 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:29 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:29 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:29 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:29 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:29 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:29 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:29 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:29 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:29 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:29 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:29 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:29 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:29 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:29 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:29 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:29 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:30 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:30 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:30 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:30 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:30 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:30 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:30 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:30 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:30 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:30 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:30 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:30 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:30 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:30 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:30 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:30 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:30 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:30 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:30 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:30 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:30 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:30 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:30 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:30 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:30 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:30 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:30 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:14:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:14:58 UTC] PHP Stack trace:
+[26-Oct-2020 02:14:58 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:14:58 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:14:58 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:14:58 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:14:58 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:14:58 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:14:58 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:14:58 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:00 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:00 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:00 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:00 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:00 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:00 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:00 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:00 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:00 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:00 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:00 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:00 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:00 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:00 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:00 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:00 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:00 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:00 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:00 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:00 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:00 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:01 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:01 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:01 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:01 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:01 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:01 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:01 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:01 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:01 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:01 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:01 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:01 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:01 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:01 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:01 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:01 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:01 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:01 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:01 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:01 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:01 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:01 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:01 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:01 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:01 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:01 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:01 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:01 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:01 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:01 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:01 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:01 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:01 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:01 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:01 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:01 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:01 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:01 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:01 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:01 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:01 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:01 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:02 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:02 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:02 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:02 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:02 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:02 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:02 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:02 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:02 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:02 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:02 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:02 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:02 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:02 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:02 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:02 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:02 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:02 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:02 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:02 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:02 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:02 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:02 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:02 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:02 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:02 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:02 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:02 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:02 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:02 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:02 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:02 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:02 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:02 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:02 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:02 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:03 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:03 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:03 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:03 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:03 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:03 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:03 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:03 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:03 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:03 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:03 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:03 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:03 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:03 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:03 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:03 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:03 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:03 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:03 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:03 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:03 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:03 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:03 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:03 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:03 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:03 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:03 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:03 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:03 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:03 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:03 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:03 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:03 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:03 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:03 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:03 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:03 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:03 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:03 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:03 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:03 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:03 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:03 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:03 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:03 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:04 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:04 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:04 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:04 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:04 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:04 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:04 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:04 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:04 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:04 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:04 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:04 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:04 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:04 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:04 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:04 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:04 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:04 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:04 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:04 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:04 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:04 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:04 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:04 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:04 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:04 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:04 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:05 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:05 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:05 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:05 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:05 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:05 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:05 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:05 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:05 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:05 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:05 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:05 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:05 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:05 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:05 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:05 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:05 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:05 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:06 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:06 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:06 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:06 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:06 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:06 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:06 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:06 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:06 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:06 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:06 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:06 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:06 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:06 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:06 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:06 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:06 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:06 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:06 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:06 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:06 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:06 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:06 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:06 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:06 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:06 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:06 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:06 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:06 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:06 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:06 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:06 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:06 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:06 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:06 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:06 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:06 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:06 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:06 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:06 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:06 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:06 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:06 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:06 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:06 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:07 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:07 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:07 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:07 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:07 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:07 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:07 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:07 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:07 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:07 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:07 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:07 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:07 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:07 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:07 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:07 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:07 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:07 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:07 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:07 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:07 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:07 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:07 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:07 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:07 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:07 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:07 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:07 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:07 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:07 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:07 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:07 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:07 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:07 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:07 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:07 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:07 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:07 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:07 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:07 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:07 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:07 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:07 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:07 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:07 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:07 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:07 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:07 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:07 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:07 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:07 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:07 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:07 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:07 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:08 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:08 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:08 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:08 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:08 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:08 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:08 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:08 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:08 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:08 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:08 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:08 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:08 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:08 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:08 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:08 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:08 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:08 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:08 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:08 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:08 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:08 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:08 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:08 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:08 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:08 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:08 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:08 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:08 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:08 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:08 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:08 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:08 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:08 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:08 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:08 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:08 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:08 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:08 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:08 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:08 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:08 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:08 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:08 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:08 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:09 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:09 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:09 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:09 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:09 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:09 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:09 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:09 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:09 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:09 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:09 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:09 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:09 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:09 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:09 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:09 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:09 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:09 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:14 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:14 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:14 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:14 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:14 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:14 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:14 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:14 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:14 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:14 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:14 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:14 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:14 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:14 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:14 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:14 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:14 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:14 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:14 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:14 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:14 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:14 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:14 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:14 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:14 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:14 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:14 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:15 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:15 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:15 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:15 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:15 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:15 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:15 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:15 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:15 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:15 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:15 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:15 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:15 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:15 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:15 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:15 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:15 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:15 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:15 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:15 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:15 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:15 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:15 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:15 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:15 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:15 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:15 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:15 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:15 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:15 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:15 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:15 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:15 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:15 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:15 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:15 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:15 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:15 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:15 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:15 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:15 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:15 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:15 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:15 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:15 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:15 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:15 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:15 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:15 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:16 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:16 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:16 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:16 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:16 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:16 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:16 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:16 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:16 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:16 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:16 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:16 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:16 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:16 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:16 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:16 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:16 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:16 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:16 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:16 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:16 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:16 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:16 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:16 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:16 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:16 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:16 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:16 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:16 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:16 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:16 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:16 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:16 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:16 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:16 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:16 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:16 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:16 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:16 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:16 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:16 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:16 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:16 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:16 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:16 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:16 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:16 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:16 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:16 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:16 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:17 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:17 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:17 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:17 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:17 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:17 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:17 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:17 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:17 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:17 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:17 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:17 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:17 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:17 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:17 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:17 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:17 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:17 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:17 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:17 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:17 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:17 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:17 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:17 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:17 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:17 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:17 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:17 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:17 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:17 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:17 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:17 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:17 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:17 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:17 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:17 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:17 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:17 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:17 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:17 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:17 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:17 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:17 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:17 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:17 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:17 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:18 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:18 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:18 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:18 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:18 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:18 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:18 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:18 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:48 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:48 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:48 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:48 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:48 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:48 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:48 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:48 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:48 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:48 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:48 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:48 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:48 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:48 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:48 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:48 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:48 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:48 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:48 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:48 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:48 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:48 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:48 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:48 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:48 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:48 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:48 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:48 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:48 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:48 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:48 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:48 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:48 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:48 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:48 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:48 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:49 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:49 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:49 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:49 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:49 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:49 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:49 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:49 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:49 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:49 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:49 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:49 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:49 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:49 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:49 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:49 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:49 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:49 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:49 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:49 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:49 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:49 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:49 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:49 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:49 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:49 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:49 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:49 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:49 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:49 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:49 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:49 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:49 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:49 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:49 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:49 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:49 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:49 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:49 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:49 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:49 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:49 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:49 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:49 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:49 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:50 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:50 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:50 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:50 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:50 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:50 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:50 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:50 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:50 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:50 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:50 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:50 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:50 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:50 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:50 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:50 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:50 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:50 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:50 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:50 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:50 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:50 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:50 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:50 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:50 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:50 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:50 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:50 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:50 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:50 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:50 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:50 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:50 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:50 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:50 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:50 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:50 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:50 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:50 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:50 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:50 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:50 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:50 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:50 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:50 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:51 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:51 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:51 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:51 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:51 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:51 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:51 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:51 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:51 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:51 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:51 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:51 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:51 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:51 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:51 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:51 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:51 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:51 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:51 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:51 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:51 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:51 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:51 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:51 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:51 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:51 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:51 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:51 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:51 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:51 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:51 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:51 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:51 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:51 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:51 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:51 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:51 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:51 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:51 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:51 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:51 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:51 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:51 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:51 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:51 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:15:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:15:51 UTC] PHP Stack trace:
+[26-Oct-2020 02:15:51 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:15:51 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:15:51 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:15:51 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:15:51 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:15:51 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:15:51 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:15:51 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:52 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:52 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:52 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:52 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:52 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:52 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:52 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:52 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:52 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:52 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:52 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:52 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:52 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:52 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:52 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:52 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:52 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:52 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:52 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:52 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:52 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:52 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:52 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:52 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:52 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:52 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:52 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:52 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:52 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:52 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:52 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:52 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:52 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:52 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:52 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:52 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:52 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:52 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:52 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:52 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:52 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:52 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:52 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:52 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:52 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:53 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:53 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:53 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:53 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:53 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:53 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:53 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:53 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:53 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:53 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:53 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:53 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:53 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:53 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:53 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:53 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:53 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:53 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:53 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:53 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:53 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:53 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:53 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:53 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:53 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:53 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:53 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:53 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:53 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:53 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:53 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:53 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:53 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:53 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:53 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:53 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:53 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:53 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:53 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:53 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:53 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:53 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:53 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:53 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:53 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:54 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:54 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:54 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:54 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:54 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:54 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:54 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:54 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:54 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:54 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:54 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:54 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:54 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:54 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:54 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:54 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:54 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:54 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:54 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:54 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:54 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:54 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:54 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:54 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:54 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:54 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:54 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:54 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:54 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:54 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:54 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:54 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:54 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:54 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:54 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:54 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:54 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:54 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:54 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:54 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:54 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:54 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:54 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:54 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:54 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:54 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:54 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:54 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:55 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:55 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:55 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:55 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:55 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:55 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:55 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:55 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:55 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:55 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:55 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:55 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:55 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:55 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:55 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:55 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:55 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:55 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:55 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:55 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:55 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:55 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:55 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:55 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:55 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:55 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:55 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:55 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:55 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:55 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:55 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:55 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:55 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:16:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:16:55 UTC] PHP Stack trace:
+[26-Oct-2020 02:16:55 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:16:55 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:16:55 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:16:55 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:16:56 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:16:56 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:16:56 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:16:56 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:09 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:09 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:09 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:09 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:09 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:09 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:09 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:09 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:09 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:09 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:09 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:09 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:09 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:09 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:09 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:09 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:09 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:09 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:09 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:09 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:09 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:09 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:09 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:09 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:09 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:09 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:09 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:09 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:09 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:09 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:09 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:09 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:09 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:10 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:10 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:10 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:10 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:10 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:10 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:10 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:10 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:10 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:10 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:10 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:10 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:10 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:10 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:10 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:10 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:10 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:10 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:10 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:10 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:10 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:10 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:10 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:10 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:10 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:10 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:10 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:10 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:10 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:10 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:11 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:11 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:11 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:11 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:11 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:11 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:11 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:11 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:11 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:11 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:11 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:11 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:11 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:11 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:11 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:11 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:11 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:11 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:11 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:11 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:11 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:11 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:11 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:11 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:11 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:11 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:11 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:11 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:11 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:11 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:11 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:11 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:11 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:11 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:11 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:11 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:11 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:11 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:11 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:11 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:12 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:12 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:12 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:12 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:12 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:12 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:12 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:12 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:12 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:12 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:12 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:12 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:12 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:12 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:12 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:12 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:12 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:12 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:12 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:12 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:12 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:12 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:12 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:12 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:12 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:12 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:12 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:12 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:12 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:12 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:12 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:12 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:12 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:12 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:12 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:12 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:12 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:12 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:12 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:12 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:12 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:12 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:12 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:12 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:12 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:12 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:12 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:12 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:12 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:12 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:13 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:13 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:13 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:13 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:13 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:13 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:13 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:13 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:13 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:13 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:13 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:13 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:13 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:13 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:13 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:13 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:13 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:13 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:13 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:13 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:13 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:13 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:13 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:13 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:13 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:13 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:13 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico_features' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:53 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:53 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:53 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:53 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:13
+[26-Oct-2020 02:17:54 UTC] PHP   4. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-load.php:37
+[26-Oct-2020 02:17:54 UTC] PHP   5. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-config.php:77
+[26-Oct-2020 02:17:54 UTC] PHP   6. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-settings.php:524
+[26-Oct-2020 02:17:54 UTC] PHP   7. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:54 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'travelNewMexico' not found or invalid function name in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 02:17:54 UTC] PHP Stack trace:
+[26-Oct-2020 02:17:54 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 02:17:54 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 02:17:54 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:19
+[26-Oct-2020 02:17:54 UTC] PHP   4. include() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\template-loader.php:106
+[26-Oct-2020 02:17:54 UTC] PHP   5. get_header() C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\front-page.php:15
+[26-Oct-2020 02:17:54 UTC] PHP   6. locate_template() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\general-template.php:48
+[26-Oct-2020 02:17:54 UTC] PHP   7. load_template() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\template.php:676
+[26-Oct-2020 02:17:54 UTC] PHP   8. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\template.php:730
+[26-Oct-2020 02:17:54 UTC] PHP   9. wp_head() C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\header.php:6
+[26-Oct-2020 02:17:54 UTC] PHP  10. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\general-template.php:3006
+[26-Oct-2020 02:17:54 UTC] PHP  11. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:54 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 02:17:54 UTC] PHP  13. wp_enqueue_scripts() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:287
+[26-Oct-2020 02:17:54 UTC] PHP  14. do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\script-loader.php:1999
+[26-Oct-2020 02:17:54 UTC] PHP  15. WP_Hook->do_action() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 02:17:54 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 03:56:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\single-destination.php on line 2
+[26-Oct-2020 04:14:47 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\functions.php on line 28
+[26-Oct-2020 04:14:47 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\functions.php on line 28
+[26-Oct-2020 04:26:10 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\single-events.php on line 34
+[26-Oct-2020 04:28:47 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '[' in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\single-events.php on line 34
+[26-Oct-2020 04:31:51 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\single-events.php on line 51
+[26-Oct-2020 04:32:04 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\single-events.php on line 51
+[26-Oct-2020 04:32:08 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\single-events.php on line 51
+[26-Oct-2020 04:38:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\single-events.php on line 38
+[26-Oct-2020 04:38:49 UTC] PHP Stack trace:
+[26-Oct-2020 04:38:49 UTC] PHP   1. {main}() C:\Users\User\Local Sites\foodabq\app\public\index.php:0
+[26-Oct-2020 04:38:49 UTC] PHP   2. require() C:\Users\User\Local Sites\foodabq\app\public\index.php:17
+[26-Oct-2020 04:38:49 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:19
+[26-Oct-2020 04:38:49 UTC] PHP   4. include() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\template-loader.php:106
+[26-Oct-2020 04:49:24 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\single-destination.php on line 86
