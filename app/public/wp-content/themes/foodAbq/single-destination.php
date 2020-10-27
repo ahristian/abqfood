@@ -17,10 +17,10 @@ while (have_posts()) {
     <div class="container container--narrow page-section">
         <div class="metabox metabox--position-up metabox--with-home-link">
             <p><a class="metabox__blog-home-link"
-                  href="<?php echo get_post_type_archive_link('thing') ?>">
+                  href="<?php echo get_post_type_archive_link('destination') ?>">
 
                     <i class="fa fa-home" aria-hidden="true">
-                    </i>Things to Do
+                    </i>Destinations
                 </a> <span class="metabox__main">
                     <?php the_title() ?>
                 </span></p>
@@ -46,7 +46,7 @@ while (have_posts()) {
                         'type' => 'numeric'
                     ),
                     array(
-                        'key' => 'related_thing',
+                        'key' => 'related_destination',
                         'compare' => 'Like',
                         'value' => '"' . get_the_ID() . '"'
                     )
