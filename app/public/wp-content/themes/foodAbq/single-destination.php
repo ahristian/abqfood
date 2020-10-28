@@ -27,13 +27,51 @@ while (have_posts()) {
         </div>
 
         <div class="generic-content">
-            <?php the_content(); ?>
+            <div class="row group">
+                <div class="one-half">
+                    <?php the_post_thumbnail('destinationSinglePage'); ?>
+                </div>
+                <div class="one-half">
+                    <?php the_content(); ?>
+                </div>
+
+            </div>
+
         </div>
 
         <?php
+        $relatedThingsToDo = new WP_Query(array(
+                'posts_per_page' => -1,
+                'post_type' => 'thing',
+                'orderby' => 'title',
+                'order' => 'ASC',
+                'meta_query' => array(
+                    array(
+                        'key' => 'related_destination',
+                        'compare' => 'Like',
+                        'value' => '"' . get_the_ID() . '"'
+                    )
+                )
+            )
+        );
+        if ($relatedThingsToDo->have_posts()) {
+            echo '
+<hr class="section-break"> 
+<h2 class="headline headline--medium"> Thing(s) to do at ' . get_the_title() . ' </h2>';
+
+        }
+        while ($relatedThingsToDo->have_posts()) {
+            $relatedThingsToDo->the_post();
+            ?>
+            <li><a href="<?php the_permalink(); ?>"><?php the_title() ?>
+                </a></li>
+            <?php
+        }
+        wp_reset_postdata();
+
         $today = date('Ymd');
         $homePageEvents = new WP_Query(array(
-                'posts_per_page' => 2,
+                'posts_per_page' => -1,
                 'post_type' => 'events',
                 'orderby' => 'meta_value_num',
                 'meta_key' => 'event_date',
@@ -53,7 +91,7 @@ while (have_posts()) {
                 )
             )
         );
-        if ($homePageEvents -> have_posts()){
+        if ($homePageEvents->have_posts()) {
             echo '
 <hr class="section-break"> 
 <h2 class="headline headline--medium"> Upcoming Events at ' . get_the_title() . ' </h2>';
