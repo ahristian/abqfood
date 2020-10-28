@@ -22,7 +22,7 @@ function foodAbq_post_types () {
     register_post_type('destination', array(
         'has_archive' => true,
         'show_in_rest' => true,
-        'supports' => array('title', 'editor', 'custom-fields'),
+        'supports' => array('title', 'editor', 'custom-fields', 'thumbnail'),
         'rewrite' => array('slug' => 'destinations'),
         'public' => true,
         'labels' => array(
@@ -33,6 +33,23 @@ function foodAbq_post_types () {
             'singular_name' => 'Destination'
         ),
         'menu_icon' => 'dashicons-car'
+    ));
+
+    //Things to do Post Type
+    register_post_type('thing', array(
+        'has_archive' => true,
+        'show_in_rest' => true,
+        'supports' => array('title', 'editor', 'custom-fields'),
+        'rewrite' => array('slug' => 'things'),
+        'public' => true,
+        'labels' => array(
+            'name'=> 'Things to Do',
+            'add_new_item'=> 'Add new Things to Do',
+            'edit_item' => 'Edit Thing to Do',
+            'all_items' => 'Things  to Do',
+            'singular_name' => 'Thing  to Do'
+        ),
+        'menu_icon' => 'dashicons-universal-access'
     ));
 }
 
