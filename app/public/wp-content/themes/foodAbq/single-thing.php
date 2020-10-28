@@ -15,84 +15,45 @@ while (have_posts()) {
         </div>
     </div>
     <div class="container container--narrow page-section">
-        <div class="metabox metabox--position-up metabox--with-home-link">
+        <!--<div class="metabox metabox--position-up metabox--with-home-link">
             <p><a class="metabox__blog-home-link"
-                  href="<?php echo get_post_type_archive_link('destination') ?>">
+                  href="<?php /*echo get_post_type_archive_link('events') */?>">
 
                     <i class="fa fa-home" aria-hidden="true">
-                    </i>Destinations
+                    </i>Events
                 </a> <span class="metabox__main">
-                    <?php the_title() ?>
+                    <?php /*the_title() */?>
                 </span></p>
-        </div>
+        </div>-->
 
         <div class="generic-content">
             <?php the_content(); ?>
         </div>
 
         <?php
-        $today = date('Ymd');
-        $homePageEvents = new WP_Query(array(
-                'posts_per_page' => 2,
-                'post_type' => 'events',
-                'orderby' => 'meta_value_num',
-                'meta_key' => 'event_date',
-                'order' => 'ASC',
-                'meta_query' => array(
-                    array(
-                        'key' => 'event_date',
-                        'compare' => '>=',
-                        'value' => $today,
-                        'type' => 'numeric'
-                    ),
-                    array(
-                        'key' => 'related_destination',
-                        'compare' => 'Like',
-                        'value' => '"' . get_the_ID() . '"'
-                    )
-                )
-            )
-        );
-        if ($homePageEvents -> have_posts()){
-            echo '
-<hr class="section-break"> 
-<h2 class="headline headline--medium"> Upcoming Events at ' . get_the_title() . ' </h2>';
+        $relatedDestination = get_field('related_destination');
 
-        }
-        while ($homePageEvents->have_posts()) {
-            $homePageEvents->the_post();
-            ?>
-            <div class="event-summary">
-                <a class="event-summary__date t-center" href=" <?php the_permalink(); ?>">
-                    <span class="event-summary__month">
+        if ($relatedDestination) {
+            echo '
+        <hr class="section-break">
+        <h2 class="headline headline--medium">Realated Destination</h2>
+        <ul class="professor-cards">';
+            foreach ($relatedDestination as $destination) {
+                ?>
+                <li class="professor-card__list-item">
+                    <a class="professor-card" href="<?php echo get_the_permalink($destination); ?>">
+                      <img class="professor-card__image" src="<?php echo get_the_post_thumbnail_url($destination); ?>" alt="image of destination">
+                        <span class="professor-card__name">
                         <?php
-                        $eventDate = new DateTime(get_field('event_date'));
-                        echo $eventDate->format('M');
-                        ?>
-                    </span>
-                    <span class="event-summary__day">
-                         <?php
-                         echo $eventDate->format('d'); ?>
-                    </span>
-                </a>
-                <div class="event-summary__content">
-                    <h5 class="event-summary__title headline headline--tiny">
-                        <a href="<?php the_permalink(); ?>">
-                            <?php echo the_title(); ?>
-                        </a>
-                    </h5>
-                    <p> <?php if (has_excerpt()) {
-                            echo get_the_excerpt();
-                        } else {
-                            echo wp_trim_words(get_the_content(), 18);
-                        } ?>
-                        <a href=" <?php the_permalink(); ?>" class="nu gray">
-                            Learn more</a>
-                    </p>
-                </div>
-            </div>
-            <?php
+                        echo get_the_title($destination); ?>
+                            </span>
+                    </a>
+                </li>
+                <?php
+            }
+            echo '</ul>';
         }
+
         ?>
     </div>
     <?php
