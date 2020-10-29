@@ -53,7 +53,6 @@ while (have_posts()) {
             }
             echo '</ul>';
         }
-
         ?>
     </div>
     <?php
