@@ -25,7 +25,6 @@ while (have_posts()) {
                     <?php the_title() ?>
                 </span></p>
         </div>
-
         <div class="generic-content">
             <?php the_content(); ?>
         </div>
