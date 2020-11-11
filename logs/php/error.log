@@ -1541,3 +1541,28 @@ Stack trace:
 [26-Oct-2020 04:38:49 UTC] PHP   3. require_once() C:\Users\User\Local Sites\foodabq\app\public\wp-blog-header.php:19
 [26-Oct-2020 04:38:49 UTC] PHP   4. include() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\template-loader.php:106
 [26-Oct-2020 04:49:24 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\foodabq\app\public\wp-content\themes\foodAbq\single-destination.php on line 86
+[31-Oct-2020 17:32:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=3932 in C:\Users\User\Local Sites\foodabq\app\public\wp-includes\wp-db.php on line 2033
+[31-Oct-2020 17:32:15 UTC] PHP Stack trace:
+[31-Oct-2020 17:32:15 UTC] PHP   1. {main}() C:\Users\User\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[31-Oct-2020 17:32:15 UTC] PHP   2. include() C:\Users\User\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[31-Oct-2020 17:32:15 UTC] PHP   3. include() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[31-Oct-2020 17:32:15 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[31-Oct-2020 17:32:15 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[31-Oct-2020 17:32:15 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[31-Oct-2020 17:32:15 UTC] PHP   7. WP_CLI\Runner->run_command_and_exit() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160
+[31-Oct-2020 17:32:15 UTC] PHP   8. WP_CLI\Runner->run_command() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:394
+[31-Oct-2020 17:32:15 UTC] PHP   9. WP_CLI\Dispatcher\Subcommand->invoke() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:371
+[31-Oct-2020 17:32:15 UTC] PHP  10. call_user_func:{phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451}() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[31-Oct-2020 17:32:15 UTC] PHP  11. WP_CLI\Dispatcher\CommandFactory::WP_CLI\Dispatcher\{closure:phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:95-102}() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[31-Oct-2020 17:32:15 UTC] PHP  12. call_user_func:{phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98}() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[31-Oct-2020 17:32:15 UTC] PHP  13. Core_Command->check_update() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[31-Oct-2020 17:32:15 UTC] PHP  14. Core_Command->get_updates() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:77
+[31-Oct-2020 17:32:15 UTC] PHP  15. wp_version_check() phar://C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:1297
+[31-Oct-2020 17:32:15 UTC] PHP  16. get_site_transient() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\update.php:37
+[31-Oct-2020 17:32:15 UTC] PHP  17. get_site_option() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\option.php:1883
+[31-Oct-2020 17:32:15 UTC] PHP  18. get_network_option() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\option.php:1245
+[31-Oct-2020 17:32:15 UTC] PHP  19. get_option() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\option.php:1380
+[31-Oct-2020 17:32:15 UTC] PHP  20. wpdb->get_row() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\option.php:124
+[31-Oct-2020 17:32:16 UTC] PHP  21. wpdb->query() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\wp-db.php:2593
+[31-Oct-2020 17:32:16 UTC] PHP  22. wpdb->_do_query() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\wp-db.php:1922
+[31-Oct-2020 17:32:16 UTC] PHP  23. mysqli_query() C:\Users\User\Local Sites\foodabq\app\public\wp-includes\wp-db.php:2033
