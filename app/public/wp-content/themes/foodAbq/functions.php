@@ -22,6 +22,7 @@ function foodAbq_features(){
     add_theme_support('post-thumbnails');
     add_image_size('destinationLandscape', 400, 260, false);
     add_image_size('destinationSinglePage', 600, 460, false);
+    add_image_size('pageBanner', 1500, 350, true);
 }
 
 add_action('after_setup_theme', 'foodAbq_features');
